@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957680754163",
+    "project_id": "textit-dab37",
+    "storage_bucket": "textit-dab37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957680754163:android:df3f16b9d9efd3f1f98686",
+        "android_client_info": {
+          "package_name": "com.kspr.textit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957680754163-mmcb7uhu86dts5b7ckkv9if83ksnsa8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kspr.textit",
+            "certificate_hash": "1e32eeaa40ab0d93740c71751637ba494aaf83fd"
+          }
+        },
+        {
+          "client_id": "957680754163-6btasbjkclklt6re5h1hmgg6pen094k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr0S37CA1T-HWDRH5swm5N2KYkmhDqPJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957680754163-6btasbjkclklt6re5h1hmgg6pen094k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
